@@ -1,0 +1,10 @@
+streamlit
+requests
+dotenv
+GitPython
+langchain
+langgraph
+python-dotenv
+oauthlib
+PyJWT
+loguru
